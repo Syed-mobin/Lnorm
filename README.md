@@ -1,3 +1,20 @@
+<!-- <p>
+Admin Route
+- http://localhost:8000/admin/settings
+- http://localhost:8000/admin/clients
+- http://localhost:8000/admin/clients/create
+- http://localhost:8000/admin/clients/{id}
+- http://localhost:8000/admin/clients/{id}/edit
+- http://localhost:8000/admin/invoices
+- http://localhost:8000/admin/invoices/create
+- http://localhost:8000/admin/invoices/{id}
+- http://localhost:8000/admin/invoices/{id}/edit
+Public Routes
+- http://localhost:8000/
+- http://localhost:8000/dashboard
+- 
+</p> -->
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
